@@ -1,0 +1,21 @@
+Player,Team,Role,Salary_Crores,Matches_Played,Runs_Scored,Wickets_Taken,Age
+Virat Kohli,RCB,Batsman,15.0,230,7263,4,35
+Rohit Sharma,MI,Batsman,16.0,243,6628,15,36
+MS Dhoni,CSK,Wicketkeeper,12.0,250,5243,0,42
+Jasprit Bumrah,MI,Bowler,12.0,133,56,165,30
+Rashid Khan,GT,Bowler,15.0,110,458,93,25
+KL Rahul,LSG,Batsman,17.0,132,4683,0,32
+Ravindra Jadeja,CSK,All-rounder,16.0,240,2832,157,35
+Pat Cummins,SRH,Bowler,20.5,50,234,78,31
+Andre Russell,KKR,All-rounder,12.0,140,2133,89,36
+Suryakumar Yadav,MI,Batsman,8.0,145,3357,0,33
+Hardik Pandya,MI,All-rounder,15.0,148,2525,68,30
+David Warner,DC,Batsman,6.25,184,6565,0,37
+Yuzvendra Chahal,RR,Bowler,6.5,159,154,205,33
+Mohammed Shami,GT,Bowler,6.25,133,134,195,33
+Shreyas Iyer,KKR,Batsman,12.25,115,3474,0,29
+Rishabh Pant,DC,Wicketkeeper,16.0,110,3284,0,26
+Jos Buttler,RR,Batsman,10.0,90,3192,0,33
+Shubman Gill,GT,Batsman,8.0,98,2864,0,24
+Ishan Kishan,MI,Wicketkeeper,15.25,105,2644,0,25
+Mitchell Starc,KKR,Bowler,24.75,58,89,74,34
